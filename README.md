@@ -140,7 +140,8 @@ vendor-performance-analysis/
 
 ## Power BI Dashboard
 
-![Power BI Dashboard]("C:\Users\risha\OneDrive\Desktop\Project\Vendor Performance DA\images\Dashboard_Image.png")
+![Power BI Dashboard](images/dashboard_image.png)
+
 
 Dashboard includes:
 - KPI cards  
