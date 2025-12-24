@@ -190,6 +190,7 @@ Dashboard includes:
 
 ## Author & Contact
 
-**Rishabh Verma**
-[Email] (rishabhv01920@gmail.com)
-[LinkedIn] (https://www.linkedin.com/in/rishabh-verma-4b9611224/)
+**Rishabh Verma**  
+📧 [Email](mailto:rishabhv01920@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/rishabh-verma-4b9611224/)
+
